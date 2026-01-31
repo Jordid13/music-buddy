@@ -25,6 +25,7 @@
 # Node.js dependency directory, logs, and environment files
 
 # Dependencies
+node_modules
 node_modules/
 jspm_packages/
 bower_components/
